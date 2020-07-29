@@ -9,3 +9,10 @@ Todas as pastas disponibilizadas estão com o jupyter notebook utilizado para a 
 ## Linguagem utilizada
 
  - Python
+ 
+## Modelos de Machine Learning abordados
+ 
+ - Kmeans Cluster
+ - Regressão Logistica
+ - KNN
+ - SVM
